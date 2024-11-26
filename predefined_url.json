@@ -1,1 +1,15 @@
+<!--This file contains list of active repositories that can be displayed in Quartus active example design search-->
+[
+    {
+        "url": "https://github.com/altera-fpga/agilex7f-nios-ed",
+        "version": ["25.1"]
+    },
+    {
+        "url": "https://github.com/altera-fpga/agilex5e-nios-ed",
+        "version": ["24.3", "25.1"]
+    },
+    {
+        "url": "https://github.com/altera-fpga/agilex5-ed-tsn-sgmii"
+    }
+]
 
