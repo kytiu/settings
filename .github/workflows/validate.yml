@@ -1,11 +1,6 @@
 name: validate
 
 on:
-  push:
-    branches:
-    - main
-  pull_request:
-    types: [opened, reopened, synchronize, ready_for_review]
 
 defaults:
   run:
